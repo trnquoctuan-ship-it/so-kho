@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Sổ Kho">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1bb877"/>
+      <stop offset="1" stop-color="#0a6a43"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#g)"/>
+  <g fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M391 171 256 96 121 171v170l135 75 135-75V171Z"/>
+    <path d="M121 171l135 75 135-75"/>
+    <path d="M256 246v170"/>
+  </g>
+</svg>
