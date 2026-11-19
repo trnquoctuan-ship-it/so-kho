@@ -13,7 +13,7 @@ Dữ liệu được lưu trong trình duyệt của từng thiết bị (Indexe
 
 ## Bản chạy
 
-- GitHub Pages: `https://<tên-tài-khoản>.github.io/so-kho/`
+- GitHub Pages: https://trnquoctuan-ship-it.github.io/so-kho/
 
 ## Chạy thử trên máy
 
